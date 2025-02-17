@@ -106,7 +106,7 @@ Significant deforestation acceleration is observed post-2005, with sharp peaks b
   <img src="https://github.com/engares/jamanix-deforestation-analysis/blob/main/images/analysis/evolution.png" alt="Deforestation Seg. Techniques" width="600">
 </p>
 
-Refer to the paper (spanish) for additional info:
+Refer to the paper (spanish) for additional info: (In progress)
 
 --- 
 
